@@ -3318,3 +3318,7 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
+
+#EXTINF:-1 group-title="Дети",Чип и Дейл
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
